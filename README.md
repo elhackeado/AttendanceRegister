@@ -63,8 +63,6 @@ for example, if I want to generate data for "ravi", I will write "ravi0" and for
 8)Dictionary "people" is self explanatory.<br><br>
 9)Run recognizer.py to recognize people. Their attendance will be registered in the mongodb database. 
 
-## Results
-![screenshot from 2018-09-26 17-51-03](https://user-images.githubusercontent.com/24778913/46079517-f98f6b00-c1b4-11e8-83b6-206e028138a1.png)
 
 ## Updated attendance in the database
 ![screenshot from 2018-09-26 17-51-17](https://user-images.githubusercontent.com/24778913/46079581-26438280-c1b5-11e8-9fc5-70480e0e68b6.png)
